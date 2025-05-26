@@ -59,9 +59,11 @@ The Dashboard will show how different events shape the Ads targeting based on us
 The Dashboard can compair two counties based on how much money spent on them by different top 5 companies.
 The Dashboard will show the money spent on different countries from 2018 to 2019.
 # FINDING:
-For the 5 countries in which snapchat ads are more popular, Each country experiences an INCREASE in the number of active ads before a Major Political Elections.
+1.For the 5 countries in which snapchat ads are more popular, Each country experiences an INCREASE in the number of active ads before a Major Political Elections.
 Of the 29 countries in this dataset, only Denmark and Iraq have shown a decrease in spending on snapchat ads whilst all the other countries have shown an increase in spending.
-The younger generation must be particularly careful on the influence we allow political ads to have on our decisions. As an 18 year old, 75% of these ads are targeting you and some ads are targeting individuals as young as 14 years old.
-We should also be more mindful of the influence advertisements may have on us as we reach election dates to ensure we are not influenced by biased ads, the same way we try and avoid being influenced by biased news sources.
+
+2.The younger generation must be particularly careful on the influence we allow political ads to have on our decisions. As an 18 year old, 75% of these ads are targeting you and some ads are targeting individuals as young as 14 years old.
+
+3.We should also be more mindful of the influence advertisements may have on us as we reach election dates to ensure we are not influenced by biased ads, the same way we try and avoid being influenced by biased news sources.
 
 
